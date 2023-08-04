@@ -1,5 +1,6 @@
-# Flux 101 resources from Killercoda hands-on lab
+# Intent
 
-[](https://killercoda.com/sidd-harth/course/fluxcd-course)
+Flux 101 resources from Killercoda hands-on lab
+    - [FluxCD Labs](https://killercoda.com/sidd-harth/course/fluxcd-course)
 
-block-buster
+Sources are git and helm charts
